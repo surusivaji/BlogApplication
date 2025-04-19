@@ -109,14 +109,34 @@ Tech Blog is a user-friendly blogging application that allows users to register,
 ---
 
 ## 📸 Screenshots
-<!-- Replace placeholders with actual screenshots -->
-<p align="center">
-  <img src="docs/screenshots/home.png" alt="Home Page" width="45%" />
-  <img src="docs/screenshots/profile.png" alt="Profile Page" width="45%" />
-</p>
+### 📌 Index Page
+![Home Page](index.png)
 
----
+### 📌 Registration Page
+![Register Page](register.png)
 
+### 📌 Login Page
+![Login Page](login.png)
+
+### 📌 Home Page
+![Home](home.png)
+
+### 📌 Add Blog Page
+![add Blog](addblog.png)
+
+### 📌 View Blog Page
+![View Blog](viewblog.png)
+
+### 📌 View Profile Page
+![view profile](viewprofile.png)
+
+### 📌 Edit Profile Page
+![edit profile](editprofile.png)
+
+### 📌 Logout Page
+![Logout](logout.png)
+
+<hr>
 
 ## 🤝 Contributing
 Contributions are welcome! Please:
