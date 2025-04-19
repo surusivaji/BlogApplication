@@ -1,24 +1,6 @@
 # 💻 Tech Blog
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/tech-blog?style=for-the-badge)](https://github.com/your-username/tech-blog/stargazers) [![GitHub forks](https://img.shields.io/github/forks/your-username/tech-blog?style=for-the-badge)](https://github.com/your-username/tech-blog/network/members) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
 > A dynamic, responsive blogging platform built with JSP, Servlets, JDBC, Bootstrap, and MySQL.
-
----
-
-## 📋 Table of Contents
-- [✨ About The Project](#✨-about-the-project)
-- [🛠️ Built With](#️-built-with)
-- [🚀 Getting Started](#️-getting-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Database Setup](#-database-setup)
-- [🎯 Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [⏳ Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📬 Contact](#-contact)
 
 ---
 
@@ -135,13 +117,6 @@ Tech Blog is a user-friendly blogging application that allows users to register,
 
 ---
 
-## ⏳ Roadmap
-- [ ] Add comment functionality
-- [ ] Implement password hashing
-- [ ] Introduce user roles (Admin, Author)
-- [ ] Enable profile picture uploads
-
----
 
 ## 🤝 Contributing
 Contributions are welcome! Please:
@@ -153,17 +128,5 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
-## 📬 Contact
-**Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@your-username](https://github.com/your-username)
-
----
-
-*Made with ❤️ by Your Name*
+*Made with ❤️ by Suru Sivaji*
 
